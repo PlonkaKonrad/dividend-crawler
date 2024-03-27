@@ -1,7 +1,7 @@
 
 # Dividend crawler
 
-A sipmple crawler for getting current dividends from https://strefainwestorow.pl/dane/dywidendy/lista-dywidend/2024
+A simple crawler for getting current dividends from https://strefainwestorow.pl/dane/dywidendy/lista-dywidend/2024
 
 ## Run it yourself
 
